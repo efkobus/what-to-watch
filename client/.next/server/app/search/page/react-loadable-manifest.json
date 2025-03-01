@@ -1,0 +1,10 @@
+{
+  "[project]/src/context/AuthContext.tsx [app-client] (ecmascript, next/dynamic entry)": {
+    "id": "[project]/src/context/AuthContext.tsx [app-client] (ecmascript, next/dynamic entry)",
+    "files": [
+      "static/chunks/node_modules_918cd437._.js",
+      "static/chunks/src_4c7262e9._.js",
+      "static/chunks/src_context_AuthContext_tsx_bc590128._.js"
+    ]
+  }
+}
